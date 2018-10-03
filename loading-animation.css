@@ -2,13 +2,32 @@
     display: flex;
     justify-content: center;
     margin-top: 100px;
+    height: 300px;
 }
 
-.floor {
-    height: 1px;
-    width: 300px;
-    background: black;
-    transform: translate(-200px, 299px);
+.loading {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
+
+.one {
+    opacity: 0;
+    animation: ellipsis 1200ms linear infinite;
+}
+
+.two {
+    opacity: 0;
+    animation: ellipsis 1200ms linear infinite;
+    animation-delay: 200ms;
+}
+
+.three {
+    opacity: 0;
+    animation: ellipsis 1200ms linear infinite;
+    animation-delay: 400ms;
 }
 
 .circle {
@@ -200,5 +219,17 @@
     100% {
         transform: rotate(360deg);
         opacity: 0;
+    }
+}
+
+@keyframes ellipsis {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
     }
 }
