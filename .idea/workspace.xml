@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1d84360-152e-4d6f-bfa3-48e57684bed4" name="Default" comment="" />
+    <list default="true" id="e1d84360-152e-4d6f-bfa3-48e57684bed4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/loading-animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/loading-animation.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,8 +28,8 @@
       <file leaf-file-name="loading-animation.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/loading-animation.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="84" column="19" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="19" />
+            <state relative-caret-position="649">
+              <caret line="133" column="14" selection-start-line="133" selection-start-column="14" selection-end-line="133" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -65,18 +67,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Loading Animation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Loading Animation" type="462c0819:PsiDirectoryNode" />
+              <item name="Loading-Animation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Loading-Animation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,11 +126,11 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22547974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22761194" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -152,6 +154,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/loading-animation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loading-animation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="19" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/loading-animation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -178,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/loading-animation.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="84" column="19" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="19" />
+        <state relative-caret-position="649">
+          <caret line="133" column="14" selection-start-line="133" selection-start-column="14" selection-end-line="133" selection-end-column="14" />
         </state>
       </provider>
     </entry>
