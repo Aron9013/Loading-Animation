@@ -14,17 +14,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="loading-animation.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="loading-animation.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/loading-animation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="868">
-              <caret line="65" column="40" lean-forward="true" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+            <state relative-caret-position="667">
+              <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loading-animation.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="loading-animation.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loading-animation.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="776">
@@ -48,8 +48,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/loading-animation.html" />
         <option value="$PROJECT_DIR$/loading-animation.css" />
+        <option value="$PROJECT_DIR$/loading-animation.html" />
       </list>
     </option>
   </component>
@@ -140,7 +140,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17015000" />
+    <option name="totallyTimeSpent" value="17095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1734" height="1407" extended-state="0" />
@@ -289,14 +289,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loading-animation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="868">
-          <caret line="65" column="40" lean-forward="true" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/loading-animation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="776">
@@ -308,6 +300,14 @@
             <element signature="e#7114#8288#0" expanded="false" />
             <element signature="e#8844#8975#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loading-animation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
