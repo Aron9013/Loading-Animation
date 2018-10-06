@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="loading-animation.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="loading-animation.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loading-animation.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1357">
@@ -24,15 +24,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loading-animation.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="loading-animation.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/loading-animation.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1075">
-              <caret line="314" column="1" lean-forward="false" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
+            <state relative-caret-position="500">
+              <caret line="235" column="33" lean-forward="false" selection-start-line="235" selection-start-column="33" selection-end-line="235" selection-end-column="33" />
+              <caret line="239" column="33" lean-forward="false" selection-start-line="239" selection-start-column="33" selection-end-line="239" selection-end-column="33" />
+              <caret line="243" column="33" lean-forward="false" selection-start-line="243" selection-start-column="33" selection-end-line="243" selection-end-column="33" />
               <folding>
-                <element signature="e#3623#4811#0" expanded="false" />
-                <element signature="e#4813#5183#0" expanded="false" />
-                <element signature="e#5185#5316#0" expanded="false" />
+                <element signature="e#4768#5138#0" expanded="false" />
+                <element signature="e#5140#5271#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -138,7 +139,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12535000" />
+    <option name="totallyTimeSpent" value="12637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1734" height="1407" extended-state="0" />
@@ -199,9 +200,8 @@
         <state relative-caret-position="667">
           <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
           <folding>
-            <element signature="e#3623#4811#0" expanded="false" />
-            <element signature="e#4813#5183#0" expanded="false" />
-            <element signature="e#5185#5316#0" expanded="false" />
+            <element signature="e#4768#5138#0" expanded="false" />
+            <element signature="e#5140#5271#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -219,9 +219,8 @@
         <state relative-caret-position="667">
           <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
           <folding>
-            <element signature="e#3623#4811#0" expanded="false" />
-            <element signature="e#4813#5183#0" expanded="false" />
-            <element signature="e#5185#5316#0" expanded="false" />
+            <element signature="e#4768#5138#0" expanded="false" />
+            <element signature="e#5140#5271#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -238,9 +237,8 @@
         <state relative-caret-position="1075">
           <caret line="313" column="1" lean-forward="false" selection-start-line="313" selection-start-column="1" selection-end-line="313" selection-end-column="1" />
           <folding>
-            <element signature="e#3623#4811#0" expanded="false" />
-            <element signature="e#4813#5183#0" expanded="false" />
-            <element signature="e#5185#5316#0" expanded="false" />
+            <element signature="e#4768#5138#0" expanded="false" />
+            <element signature="e#5140#5271#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -291,12 +289,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/loading-animation.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="314" column="1" lean-forward="false" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
+        <state relative-caret-position="500">
+          <caret line="235" column="33" lean-forward="false" selection-start-line="235" selection-start-column="33" selection-end-line="235" selection-end-column="33" />
+          <caret line="239" column="33" lean-forward="false" selection-start-line="239" selection-start-column="33" selection-end-line="239" selection-end-column="33" />
+          <caret line="243" column="33" lean-forward="false" selection-start-line="243" selection-start-column="33" selection-end-line="243" selection-end-column="33" />
           <folding>
-            <element signature="e#3623#4811#0" expanded="false" />
-            <element signature="e#4813#5183#0" expanded="false" />
-            <element signature="e#5185#5316#0" expanded="false" />
+            <element signature="e#4768#5138#0" expanded="false" />
+            <element signature="e#5140#5271#0" expanded="false" />
           </folding>
         </state>
       </provider>
